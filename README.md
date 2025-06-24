@@ -14,7 +14,7 @@ O usuário informa altura e peso, e o app calcula automaticamente o IMC e exibe 
 
 ---
 
-📦 Instalação e Uso
+## 📦 Instalação e Uso
 
 ```bash
 git clone https://github.com/Oberon-23/imc-react.git
