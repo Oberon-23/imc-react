@@ -29,17 +29,16 @@ http://localhost:3000
 
 ## ✨ Funcionalidades
 
-✅ Inserção de altura e peso
-✅ Cálculo automático do IMC
-✅ Exibição da classificação (ex: "Sobrepeso", "Peso normal", etc)
-✅ Layout simples e intuitivo
----
+✅ Inserção de altura e peso  
+✅ Cálculo automático do IMC  
+✅ Exibição da classificação (ex: "Sobrepeso", "Peso normal", etc)  
+✅ Layout simples e intuitivo  
 
 ## 🧠 Aprendizados
 
-✅ Manipulação de formulário com onChange
-✅ Cálculo baseado em valores controlados pelo estado
-✅ Renderização condicional no React
+✅ Manipulação de formulário com `onChange`  
+✅ Cálculo baseado em valores controlados pelo estado  
+✅ Renderização condicional no React  
 
 ---
 
