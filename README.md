@@ -28,6 +28,7 @@ http://localhost:3000
 ---
 
 ## ✨ Funcionalidades
+
 ✅ Inserção de altura e peso
 ✅ Cálculo automático do IMC
 ✅ Exibição da classificação (ex: "Sobrepeso", "Peso normal", etc)
