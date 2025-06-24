@@ -33,7 +33,6 @@ http://localhost:3000
 ✅ Cálculo automático do IMC
 ✅ Exibição da classificação (ex: "Sobrepeso", "Peso normal", etc)
 ✅ Layout simples e intuitivo
-
 ---
 
 ## 🧠 Aprendizados
